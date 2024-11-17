@@ -34,7 +34,7 @@ Check it out and try guessing the number! 😄
 
 ## 📫 How to Reach Me
 - 📧 Email: [panuj0287@gmail.com](mailto:panuj0287@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/anuj-panwar-2a9089339/](linkedin.com/in/anuj-panwar-2a9089339/)
+- 🌐 LinkedIn: [Anuj Panwar's LinkedIn](https://www.linkedin.com/in/anuj-panwar-2a9089339/)
 
 ## 🚀 Let's Connect and Build Something Amazing!
 If you’re a mentor, recruiter, or fellow developer looking to collaborate, feel free to reach out. I’m always open to connecting with like-minded professionals!
