@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a passionate **fresher** looking for a **Trainee Developer** position. I'm eager to learn, grow, and apply my skills in a real-world environment. I’m always excited about new challenges and opportunities in tech! 🚀
 
 ## 🌱 About Me
-- 🌍 Based in India, currently seeking to build my career in **web development** and **software engineering**.
+- 🌍 Based in Delhi India, currently seeking to build my career in **web development** and **software engineering**.
 - 🔭 I’m currently learning more about **full-stack development** and **data analysis** to broaden my technical expertise.
 - 💼 Open to **internship** or **trainee developer** roles where I can contribute and grow.
 - ⚡ I enjoy problem-solving and creating interactive, user-friendly web applications.
@@ -34,7 +34,7 @@ Check it out and try guessing the number! 😄
 
 ## 📫 How to Reach Me
 - 📧 Email: [panuj0287@gmail.com](mailto:panuj0287@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/anujpanwarr](https://linkedin.com/in/anujpanwarr)
+- 🌐 LinkedIn: [linkedin.com/in/anujpanwarr](linkedin.com/in/anuj-panwar-2a9089339)
 
 ## 🚀 Let's Connect and Build Something Amazing!
 If you’re a mentor, recruiter, or fellow developer looking to collaborate, feel free to reach out. I’m always open to connecting with like-minded professionals!
