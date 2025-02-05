@@ -4,13 +4,13 @@ Welcome to my GitHub! I'm a passionate **fresher** looking for a **Trainee Devel
 
 ## 🌱 About Me
 - 🌍 Based in Delhi India, currently seeking to build my career in **web development** and **software engineering**.
-- 🔭 I’m currently learning more about **full-stack development** and **data analysis** to broaden my technical expertise.
+- 🔭 I’m currently learning more about **full-stack development** to broaden my technical expertise.
 - 💼 Open to **internship** or **trainee developer** roles where I can contribute and grow.
 - ⚡ I enjoy problem-solving and creating interactive, user-friendly web applications.
 
 ## 🛠️ My Skills
 - **Frontend Development**:
-  - HTML5, CSS3, JavaScript (Building interactive websites)
+  - HTML5, CSS3, JavaScript (Building interactive websites), React.js
 - **Backend Development**:
   - Python (Flask/Django for web apps)
   - SQL (Database management and querying)
@@ -22,8 +22,8 @@ Welcome to my GitHub! I'm a passionate **fresher** looking for a **Trainee Devel
   - Familiar with **responsive design** and **UI/UX principles**
 
 ## 💡 What I'm Learning
-- Exploring **React** and **Node.js** for modern full-stack development.
-- Working on enhancing my **SQL** skills for data-driven decision-making.
+- Exploring **Node.js** for modern full-stack development.
+- Working on enhancing my **SQL** skills.
 
 ## 💻 Projects
 
